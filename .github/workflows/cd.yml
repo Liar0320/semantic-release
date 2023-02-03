@@ -28,14 +28,9 @@ jobs:
         run: |
           npm install
 
-      # 打包你的插件/组件/库等等等
-      - name: Build
-        run: |
-          npm run build
-
       # 执行 semantic-release 发布包
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
