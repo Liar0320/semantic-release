@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Liar0320/semantic-release/compare/v1.0.0...v1.1.0) (2023-02-03)
+
+
+### Features
+
+* update doc ([8dff06d](https://github.com/Liar0320/semantic-release/commit/8dff06d94f0ba57138fc2ceb193ed8342c06b55e))
+
 # 1.0.0 (2023-02-03)
 
 
