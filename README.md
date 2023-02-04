@@ -14,6 +14,8 @@ Install emantic-release with npm
 
 ## 2. Write a release configuration
 
+${workspace}/.releaserc.js
+
 ```javascript
 module.exports = {
   branches: ["main"], // 指定在哪个分支下要执行发布操作
