@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/Liar0320/semantic-release/compare/v1.2.0...v1.2.1) (2023-04-22)
+
+
+### Bug Fixes
+
+* v1.0.0 ([a164988](https://github.com/Liar0320/semantic-release/commit/a164988a056d333bc57707c1c558661818e8191a))
+
 # [1.2.0](https://github.com/Liar0320/semantic-release/compare/v1.1.2...v1.2.0) (2023-04-22)
 
 
