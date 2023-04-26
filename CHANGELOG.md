@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/Liar0320/semantic-release/compare/v1.4.1...v1.5.0) (2023-04-26)
+
+
+### ✨ Feature ✨
+
+* **vvvv:** 1232qe ([cdb4c82](https://github.com/Liar0320/semantic-release/commit/cdb4c82655e4876c54d2453c515f64555c8be83e))
+
 ## [1.4.1](https://github.com/Liar0320/semantic-release/compare/v1.4.0...v1.4.1) (2023-04-26)
 
 
