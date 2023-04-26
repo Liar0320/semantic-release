@@ -24,21 +24,11 @@ module.exports = {
         "preset": "conventionalcommits",
         "presetConfig": {
           "types": [
-            {
-              "type": "breaking",
-              "section": "❗ Breaking ❗",
-              "hidden": false
-            },
+            { "type": "breaking", "section": "❗ Breaking ❗",  "hidden": false},
             { "type": "feat", "section": "✨ Feature ✨", "hidden": false },
             { "type": "fix", "section": "🐛 Bugfix 🐛", "hidden": false },
             { "type": "chore", "section": "🐛 Chore 🐛", "hidden": false },
             { "type": "hotfix", "section": "🔥 Hotfix 🔥", "hidden": false },
-            {
-              "type": "BREAKING",
-              "section": "❗ Breaking ❗",
-              "hidden": false
-            },
-            { "type": "HOTFIX", "section": "🔥 Hotfix 🔥", "hidden": false }
           ]
         }
       }
