@@ -21,7 +21,7 @@ module.exports = {
         "parserOpts": {
           "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
         },
-        // "preset": "conventionalcommits",
+        "preset": "conventionalcommits",
         "presetConfig": {
           "types": [
             {
