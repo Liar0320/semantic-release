@@ -1,3 +1,30 @@
+## [1.4.0](https://github.com/Liar0320/semantic-release/compare/v1.3.3...v1.4.0) (2023-04-26)
+
+
+### ❗ Breaking ❗
+
+* breaking ([cbdc22b](https://github.com/Liar0320/semantic-release/commit/cbdc22b3a525d04b3928e19803a7849cd156fac1))
+
+
+### ✨ Feature ✨
+
+* 2 ([e5caaa5](https://github.com/Liar0320/semantic-release/commit/e5caaa5c733f4c2ffccb1613d9cd5885a323ce68))
+
+
+### 🐛 Bugfix 🐛
+
+* 1 ([4bd74a7](https://github.com/Liar0320/semantic-release/commit/4bd74a75b235caa84f6e806cab6b7dc82e53b938))
+
+
+### 🐛 Chore 🐛
+
+* chore-1 ([8b389ec](https://github.com/Liar0320/semantic-release/commit/8b389ec16da2ab28985d240b71ca7c9a9df4c9b2))
+
+
+### 🔥 Hotfix 🔥
+
+* hotfix ([593eebb](https://github.com/Liar0320/semantic-release/commit/593eebbcb1f3d3ba1b48f6896bc971b03f7440a2))
+
 ## [1.3.3](https://github.com/Liar0320/semantic-release/compare/v1.3.2...v1.3.3) (2023-04-26)
 
 
