@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/Liar0320/semantic-release/compare/v1.3.0...v1.3.1) (2023-04-26)
+
+
+### Bug Fixes
+
+* 缺少DFU的删除 ([b92f3c1](https://github.com/Liar0320/semantic-release/commit/b92f3c167df363799c02d25918d5783bcca4c70e))
+
 # [1.3.0](https://github.com/Liar0320/semantic-release/compare/v1.2.1...v1.3.0) (2023-04-22)
 
 
