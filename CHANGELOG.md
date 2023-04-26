@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/Liar0320/semantic-release/compare/v1.4.0...v1.4.1) (2023-04-26)
+
+
+### 🐛 Chore 🐛
+
+* **release:** 1232qe ([3cfe65b](https://github.com/Liar0320/semantic-release/commit/3cfe65be3a8ecae07e1419f05ce1efb852c2ec92))
+
 ## [1.4.0](https://github.com/Liar0320/semantic-release/compare/v1.3.3...v1.4.0) (2023-04-26)
 
 
