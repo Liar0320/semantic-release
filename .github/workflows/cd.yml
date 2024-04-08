@@ -23,6 +23,20 @@ jobs:
         with:
           node-version: "18"
 
+      - name: Pick up version
+        id: version
+        run: echo ::set-output name=value::$(date +%Y%m%d%H%M%S)
+
+      - name: Console the version
+        run: echo ${{steps.version.outputs.value}}
+
+      - name: Pick the repository name
+        id: repository_name
+        run: echo ::set-output name=value::$(basename "${{ github.repository }}")
+
+      - name: Console the repository name & version
+        run: echo ${{steps.repository_name.outputs.value}}
+
       # 安装依赖，包括我们的 semantic-release 全套
       - name: Install
         run: |
